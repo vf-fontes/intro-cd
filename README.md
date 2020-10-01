@@ -1,2 +1,2 @@
 # intro-cd
-🐍👨‍💻🚀 Aqui encontra-se meus repositórios da introdução a ciência de dados
+🐍👨‍💻🚀 Aqui encontra-se meus repositórios de introdução a ciência de dados
